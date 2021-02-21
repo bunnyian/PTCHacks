@@ -1,3 +1,6 @@
+# IMPORTANT
+You MUST import the folder into eclipse if you want to see the images in the right places, otherwise it runs fine without images.
+
 # VaccinateMe
 Determine which COVID vaccine Phase you are eligible for in Ontario.
 
