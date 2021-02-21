@@ -1,21 +1,6 @@
 # VaccinateMe
 Determine which COVID vaccine Phase you are eligible for in Ontario.
 
-# Features
-- Determine which phase you are eligible for
-- Determine you COVID physical risk level
-- Special notes for Healthcare workers and for Pregnant women
-- Save your data as a .txt file that can be exported to Public Health
-- Simple GUI for stressed out users, simple input (YES) or (NO) buttons
-- Pictures to guide understanding
-
-# Language
-Entirely made in Java, heavily using the Java Swing library. Some filewriter too.
-
-# Eclipse
-Programmed using the eclipse JDE. If you would like to run in eclipse you need to move the images into the root folder instead of the bin folder.
-
-Project Bio copied from our DevPost:
 ## Inspiration
 There are spikes in the COVID curve all the time because of human activity. While changing your habits can help, it relies on controlling a large population.  Vaccines do not require control and are the most effective tool against the COVID curve if enough people are Vaccinated. 
 
@@ -35,6 +20,15 @@ _See project images for examples_
 - **Warning:** Returns COVID risk factors the user faces.
 - **Customizable** Special messages for pregnant women and healthcare workers, more can be added.
 - **Educational** Important vaccine message for all users about before vaccine and after the vaccine.
+
+
+## Features
+- Determine which phase you are eligible for
+- Determine you COVID physical risk level
+- Special notes for Healthcare workers and for Pregnant women
+- Save your data as a .txt file that can be exported to Public Health
+- Simple GUI for stressed out users, simple input (YES) or (NO) buttons
+- Pictures to guide understanding
 
 ## How we built it
 Built in the eclipse JDE. The panels that pop up for a better GUI are done through java Swing. File writing is done through java io.  I am new to programming but I am very happy that I was able to move my projects **out of the console, and into proper and user-friendly mediums**.
