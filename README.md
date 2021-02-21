@@ -6,8 +6,11 @@ There are spikes in the COVID curve all the time because of human activity. Whil
 
 ## Questions it answers
 _Do you know when you can get Vaccinated?_
+
 _When can your elderly grandparents, or sibling with autoimmune conditions get Vaccinated?_
+
 _If you are a stressed worker, will our program be difficult to use and understand?_
+
 _How can we best allocate and distribute vaccines?_
 
 ## What it does
