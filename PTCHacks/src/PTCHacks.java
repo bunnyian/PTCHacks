@@ -352,7 +352,7 @@ public class PTCHacks {
 				+ "begins in August 2021 and beyond, depending on availability.\n"
 				+"more information will be provided closer to the release\n"
 				+ "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
-				+"You are eligible for PHASE TWO because:\n"
+				+"You are eligible for PHASE THREE because:\n"
 				+"- You are NOT considered at risk (this is the final Phase):\n";
 		area.setText(output);
 		JOptionPane.showMessageDialog(null, area, "PHASE TWO ELIGIBLE", JOptionPane.PLAIN_MESSAGE);
