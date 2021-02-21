@@ -27,10 +27,10 @@ _See project images for examples_
 
 ## Features
 - Determine which phase you are eligible for
-- Determine you COVID physical risk level
+- Determine your COVID physical risk level
 - Special notes for Healthcare workers and for Pregnant women
 - Save your data as a .txt file that can be exported to Public Health
-- Simple GUI for stressed out users, simple input (YES) or (NO) buttons
+- Simple GUI for stressed-out users, simple input (YES) or (NO) buttons
 - Pictures to guide understanding
 
 ## How we built it
