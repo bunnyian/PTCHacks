@@ -1,6 +1,3 @@
-# IMPORTANT
-You MUST import the folder into eclipse if you want to see the images in the right places, otherwise it runs fine without images.
-
 # VaccinateMe
 Determine which COVID vaccine Phase you are eligible for in Ontario.
 
@@ -14,3 +11,6 @@ Determine which COVID vaccine Phase you are eligible for in Ontario.
 
 # Language
 Entirely made in Java, heavily using the Java Swing library. Some filewriter too.
+
+# Eclipse
+Programmed using the eclipse JDE. If you would like to run in eclipse you need to move the images into the root folder instead of the bin folder.
