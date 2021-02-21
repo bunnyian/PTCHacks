@@ -6,8 +6,8 @@ Determine which COVID vaccine Phase you are eligible for in Ontario.
 - Determine you COVID physical risk level
 - Special notes for Healthcare workers and for Pregnant women
 - Save your data as a .txt file that can be exported to Public Health
-- Good user GUI, simple input (YES) or (NO) buttons
-- Pictures to keep attention and understanding
+- Simple GUI for stressed out users, simple input (YES) or (NO) buttons
+- Pictures to guide understanding
 
 # Language
 Entirely made in Java, heavily using the Java Swing library. Some filewriter too.
