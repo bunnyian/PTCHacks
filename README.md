@@ -1,7 +1,7 @@
 # VaccinateMe
 Determine which COVID vaccine Phase you are eligible for in Ontario.
 
-#Features
+# Features
 - Determine which phase you are eligible for
 - Determine you COVID physical risk level
 - Special notes for Healthcare workers and for Pregnant women
